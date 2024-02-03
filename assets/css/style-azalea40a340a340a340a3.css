@@ -3849,7 +3849,7 @@ hr {
 .header-bubbles-single div {
   position: absolute;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.05);
+  background: #ffffff0d;
 }
 
 .header-bubbles-single-1 {
